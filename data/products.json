@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "name": "Intel Core i5",
+            "price": "$200",
+            "img": "https://grifus.am/wp-content/uploads/2019/04/1-2.jpg"
+        },
+        {
+            "name": "Intel Core i7",
+            "price": "$250",
+            "img": "https://grifus.am/wp-content/uploads/2019/05/e1991e2fb6c1a3b9a39f401079a0d921@500.jpg"
+        },
+        {
+            "name": "Intel Core i9",
+            "price": "$300",
+            "img": "https://grifus.am/wp-content/uploads/2020/02/51JO5mCAKoL._SX466_.jpg"
+        },
+        {
+            "name": "Nvidia Gefroce 1050",
+            "price": "$250",
+            "img": "https://avatars.mds.yandex.net/get-mpic/1364191/img_id266703431524144346.jpeg/orig"
+        },
+        {
+            "name": "Nvidia Gefroce 1060",
+            "price": "$280",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51T1GaSIVLL._AC_.jpg"
+        }
+    ]
+}
